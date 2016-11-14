@@ -37,6 +37,7 @@ npm install
 npm start
 ```
 
+Then open a browser to localhost:3000 to view the starter app and Pux Devtool.
 Pux is also available as the bower package `purescript-pux`.
 
 ### Example
